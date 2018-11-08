@@ -2,7 +2,7 @@
 简单好玩的微信游戏机器人（使用wxpy）
 这个软件使用了<a href='https://github.com/youfou/wxpy'>wxpy</a>支持库
 
-dist里有使用PyInstaller打包好的程序，运行输入群名然后扫描登录就一切OK了，具体的游戏说明在下面：
+dist里有使用PyInstaller打包好的程序和Sqlite数据库（未加密），运行输入群名然后扫描登录就一切OK了，具体的游戏说明在下面：
 
 
         bakcStr='[注册]注册账号，进行游戏，但不准注销\n'
